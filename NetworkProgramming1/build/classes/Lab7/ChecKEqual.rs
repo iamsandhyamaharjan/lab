@@ -1,0 +1,2 @@
+CheckEqual
+Class1.CheckEqual
