@@ -4,6 +4,7 @@
  startup.bat
  https://tomcat.apache.org/
  http://localhost:8080/examples/color-get.html
+  C:\Users\Dell\Downloads\apache-tomcat-10.1.26\apache-tomcat-10.1.26\webapps\examples\WEB-INF
 
  derby server run
  java -jar .\lib\derbyrun.jar server start
