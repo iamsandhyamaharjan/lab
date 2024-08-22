@@ -1,0 +1,11 @@
+ javac -cp ".;C:\Users\Dell\Downloads\apache-tomcat-10.1.26\apache-tomcat-10.1.26\lib\servlet-api.jar" AddCookieServlet.java
+
+ tomcat server run bin ma jani 
+ startup.bat
+ https://tomcat.apache.org/
+ http://localhost:8080/examples/color-get.html
+
+ derby server run
+ java -jar .\lib\derbyrun.jar server start
+ https://db.apache.org/derby/derby_downloads.html
+
